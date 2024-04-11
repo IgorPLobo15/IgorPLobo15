@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Estudante de Ciência da Computação<br>👯 Estou a procura de Estágio<br>🌱 Atualmente estou aprendendo<br>🚀 Vamos criar juntos um futuro digital incrível!<br>
+👨‍💻 Estudante de Ciência da Computação<br>👯 Um estágio <br>🌱 Atualmente estou aprendendo<br>🚀 Vamos criar juntos um futuro digital incrível!<br>
 
 
 # 💻 Tech Stack:
