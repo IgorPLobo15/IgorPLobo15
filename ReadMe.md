@@ -1,5 +1,12 @@
 # 💫 About Me:
-👨‍💻 Estudante de Ciência da Computação<br>👯 Desenvolvedor Angular na CGE Goiás <br>🌱 Atualmente estou aprendendo<br>🚀 Vamos criar juntos um futuro digital incrível!<br>
+🎓 Estudante de Ciência da Computação  
+💼 Desenvolvedor Fullstack na G4F 
+🚀 Desenvolvedor Angular na Controladoria-Geral do Estado de Goiás (CGE Goiás)  
+🌱 Apaixonado por tecnologia, atualmente me aprofundo em desenvolvimento web fullstack  
+📍 Trabalhando com tecnologias como: HTML, CSS, Tailwind, JavaScript, Bootstrap, TypeScript, Angular, PHP, Laravel, WordPress  
+🗄️ Experiência com bancos de dados MySQL e PostgreSQL  
+🛠️ Utilizo ferramentas de versionamento e atuo com metodologias ágeis como SCRUM  
+🤝 Vamos criar juntos um futuro digital incrível!
 
 
 # 💻 Tech Stack:
